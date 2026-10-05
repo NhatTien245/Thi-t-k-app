@@ -1,6 +1,6 @@
-# Greenfood - ỨNG DỤNG GIAO ĐỒ ĂN
+# Greenfood - ỨNG DỤNG GIAO ĐỒ ĂN NHANH
 ### 1. Đề tài
-Thiết kế ứng dụng giao đồ ăn trực tuyến.
+Thiết kế ứng dụng giao đồ ăn trực tuyến hỏa tốc
 ### Giới thiệu
 GreenFood là hệ thống đặt và giao đồ ăn nhanh được phát triển với mục tiêu:
 Ăn ngon & Lành mạnh: Cung cấp đa dạng các món ăn tươi ngon, đảm bảo an toàn vệ sinh thực phẩm và hỗ trợ lối sống lành mạnh.
