@@ -13,7 +13,7 @@ Nguyễn Thị Minh Thư
 Hà Nguyễn Thái Vũ - 051206014028
 Nguyễn Thành Vinh
 ### Demo ứng dụng
-<img width="572" height="304" alt="1791222197821_832578713439222316_6264964638560262992_b3c40e54832c32ee08f79aa9487b797d" src="https://github.com/user-attachments/assets/22f6600c-22a9-422b-8e9f-239e6636e680" />
+<img width="572" height="304" alt="1791222197821_832578713439222316_6264964638560262992_b3c40e54832c32ee08f79aa9487b797d" src="https://github.com/user-attachments/assets/03af698a-7723-410c-aa26-57d3ce5c0ece" />
 
 ### 2. Mục tiêu
 - Tìm kiếm món ăn và nhà hàng nhanh chóng.
