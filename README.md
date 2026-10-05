@@ -12,8 +12,10 @@ Nhóm thực hiện:
 Nguyễn Thị Minh Thư
 Hà Nguyễn Thái Vũ - 051206014028
 Nguyễn Thành Vinh
+
 ### Demo ứng dụng
-<img width="572" height="304" alt="1791222197821_832578713439222316_6264964638560262992_b3c40e54832c32ee08f79aa9487b797d" src="https://github.com/user-attachments/assets/03af698a-7723-410c-aa26-57d3ce5c0ece" />
+<img width="1207" height="880" alt="1791222499326_832578713439222316_6264964638560262992_ceec3f75c0361f50a419f6849bb15b48" src="https://github.com/user-attachments/assets/dcd21e01-8cb5-4208-98b0-d76af82971f7" />
+
 
 ### 2. Mục tiêu
 - Tìm kiếm món ăn và nhà hàng nhanh chóng.
