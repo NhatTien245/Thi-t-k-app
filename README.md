@@ -10,7 +10,9 @@ AI gợi ý thông minh: Tích hợp trí tuệ nhân tạo để đề xuất m
 
 Nhóm thực hiện:
 Nguyễn Thị Minh Thư
+
 Hà Nguyễn Thái Vũ - 051206014028
+
 Nguyễn Thành Vinh
 
 ### Demo ứng dụng
