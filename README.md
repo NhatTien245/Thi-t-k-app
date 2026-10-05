@@ -1,9 +1,17 @@
-# ỨNG DỤNG GIAO ĐỒ ĂN
-
-## Nhóm I - Tuần 1
-
+# Greenfood - ỨNG DỤNG GIAO ĐỒ ĂN
 ### 1. Đề tài
 Thiết kế ứng dụng giao đồ ăn trực tuyến.
+### Giới thiệu
+GreenFood là hệ thống đặt và giao đồ ăn nhanh được phát triển với mục tiêu:
+Ăn ngon & Lành mạnh: Cung cấp đa dạng các món ăn tươi ngon, đảm bảo an toàn vệ sinh thực phẩm và hỗ trợ lối sống lành mạnh.
+Giao hàng siêu tốc: Tối ưu hóa quy trình kết nối giữa nhà hàng, tài xế và người dùng để đảm bảo đồ ăn luôn nóng hổi khi tới tay khách hàng.
+Minh bạch dinh dưỡng: Tích hợp tính năng hiển thị thông số Calo và thành phần dinh dưỡng chi tiết cho từng món ăn.
+AI gợi ý thông minh: Tích hợp trí tuệ nhân tạo để đề xuất món ăn phù hợp với sở thích, chế độ ăn uống và nhu cầu calo hàng ngày của người dùng
+
+Nhóm thực hiện:
+Nguyễn Thị Minh Thư
+Hà Nguyễn Thái Vũ - 051206014028
+Nguyễn Thành Vinh
 
 ### 2. Mục tiêu
 - Tìm kiếm món ăn và nhà hàng nhanh chóng.
