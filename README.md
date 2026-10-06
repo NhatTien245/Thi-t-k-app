@@ -10,11 +10,12 @@ AI gợi ý thông minh: Tích hợp trí tuệ nhân tạo để đề xuất m
 
 Nhóm thực hiện:
 
-Nguyễn Thị Minh Thư
 
 Hà Nguyễn Thái Vũ - 051206014028
 
 Nguyễn Thành Vinh
+
+Nguyễn Nhật Tiến
 
 ### Demo ứng dụng
 <img width="1207" height="880" alt="1791222499326_832578713439222316_6264964638560262992_ceec3f75c0361f50a419f6849bb15b48" src="https://github.com/user-attachments/assets/dcd21e01-8cb5-4208-98b0-d76af82971f7" />
